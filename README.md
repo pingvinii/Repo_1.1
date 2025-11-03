@@ -28,7 +28,7 @@ $
 
 
 $
-S_n=n(n-1)/2
+S_n=\frac{n(n-1)}{2}
 $
 
 
@@ -44,7 +44,7 @@ $
 I know only 1 phrase:
 
 ```python
-    print("Hello, World!")
+print("Hello, World!")
 ```
 
 You can test my skills in a [**web-compiler**](https://www.programiz.com/python-programming/online-compiler/). The `main()` function will print "Hello, World!"
