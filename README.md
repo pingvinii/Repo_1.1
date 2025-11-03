@@ -1,5 +1,6 @@
 # GitHub-Intro
 ## Quick referens
+[Author](#author) | [Description](#description) | [My favorite university subjects](#my-favorite-university-subjects) | [Online VS Offline studying](#online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)
 ## Author
 * **Name**: *Aleksandr Moskalenko*
 * **Group**: *CS-125*
