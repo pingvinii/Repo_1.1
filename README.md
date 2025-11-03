@@ -38,11 +38,17 @@ $$
 ## My coding skills
 I know only 1 phrase:
 
-```python
-print("Hello, World!")
+```c++
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, Github!" << endl;
+    return 0;
+}
 ```
 
-You can test my skills in a [**web-compiler**](https://www.programiz.com/python-programming/online-compiler/). The `main()` function will print "Hello, World!"
+You can test my skills in a [**web-compiler**](https://cpp.sh/). The `main()` function will print "Hello, World!"
 
 ## The image i like
 This is a knitted version of the cat as a character. Now my Discord avatar image.
