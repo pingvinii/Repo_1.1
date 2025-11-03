@@ -18,27 +18,21 @@ Currently my favorite subjects are:
 ## My favourite math formulas
 **Heron's formula**
 
-
 $
 S=\sqrt{p(p-a)(p-b)(p-c)}; p=\frac{a+b+c}{2} 
 $
 
-
 **Gauss's sum formula**
-
 
 $
 S_n=\frac{n(n-1)}{2}
 $
 
-
 **General form of a polynomial**
-
 
 $
 a_nx^n+a_{n-1}x^{n-1}+...+a_1x+a_0        
 $
-
 
 ## My coding skills
 I know only 1 phrase:
