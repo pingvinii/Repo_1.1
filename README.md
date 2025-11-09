@@ -4,7 +4,7 @@
 ## Author
 * **Name**: *Aleksandr Moskalenko*
 * **Group**: *CS-125*
-* **Date**: 03.11.2025
+* **Date**: *03.11.2025*
 ## Description
 Hi! My name is Alex , and this is my first GitHub repo. Here I practice my skills at writing markdown texts, LaTeX formulas and other fun things like that.
 ## My favorite university subjects
@@ -16,7 +16,7 @@ Currently my favorite subjects are:
 | Online | Offline |
 | :---: | :---: |
 |You can sleep more comfortably during classes. More time to do tasks.|Communication with most of classmates. I have to go outside.|
-## My favourite math formulas
+## My favorite math formulas
 **Heron's formula**
 
 $$
@@ -34,6 +34,19 @@ $$
 $$
 a_nx^n+a_{n-1}x^{n-1}+...+a_1x+a_0        
 $$
+
+**Gaussian Integral**
+
+$$
+\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
+$$
+
+**Laplace Operator**
+
+$$
+\mathbf{\Delta} f = \mathbf{\nabla}^2 f = \frac{\partial^2 f}{\partial x^2} + \frac{\partial^2 f}{\partial y^2} + \frac{\partial^2 f}{\partial z^2}
+$$
+
 
 ## My coding skills
 I know only 1 phrase:
@@ -53,3 +66,4 @@ You can test my skills in a [**web-compiler**](https://cpp.sh/). The `main()` fu
 ## The image i like
 This is a knitted version of the cat as a character. Now my Discord avatar image.
 ![alt text](images/1+1=3.jpg)
+
